@@ -1,4 +1,4 @@
-  export const vertex = `
+export const vertex = `
 varying vec2 vUv;
 void main() {
     vUv = uv;
